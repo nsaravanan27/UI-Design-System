@@ -14,5 +14,5 @@ https://github.com/kripod/react-hooks
 
 Material UI
 
-Extend SvgIcon sizes in React Material UI
+Extend SvgIcon sizes in React Material UI \
 https://dev.to/karladler/extend-svgicon-sizes-in-react-material-ui-44f8
