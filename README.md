@@ -17,5 +17,5 @@ Material UI
 Extend SvgIcon sizes in React Material UI \
 https://dev.to/karladler/extend-svgicon-sizes-in-react-material-ui-44f8
 
-Material UI theme
+Material UI theme \
 https://www.youtube.com/watch?v=bDkB3LoQKxs&ab_channel=BrunoAntunes
