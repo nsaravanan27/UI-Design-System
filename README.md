@@ -19,3 +19,6 @@ https://dev.to/karladler/extend-svgicon-sizes-in-react-material-ui-44f8
 
 Material UI theme \
 https://www.youtube.com/watch?v=bDkB3LoQKxs&ab_channel=BrunoAntunes
+
+Josh blog (Interavtive UI) React, CSS Animations and Dev tools\
+https://www.joshwcomeau.com/latest/
